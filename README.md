@@ -29,15 +29,26 @@ Python-basics-25BCON1784/
 |   |--palindrome.exe
 |
 |-- Session-4/
-|   |--Dictionary.py
-|   |--Factorial.py
-|   |--Febonacci.py
-|   |--P1_Factorial.c
-|   |--P1_Factorial.exe
-|   |--P2_Febonacci.c
-|   |--P2_Febonacce.exe
-|   |--P3_Structure.c
-|   |--P3_Structure.exe
+|      |-- cw-4/
+|         |--Dictionary.py
+|         |--Factorial.py
+|         |--Febonacci.py
+|         |--P1_Factorial.c
+|         |--P1_Factorial.exe
+|         |--P2_Febonacci.c
+|         |--P2_Febonacce.exe
+|         |--P3_Structure.c
+|         |--P3_Structure.exe
+|      |-- hw-4/
+|         |--EvenOdd.py
+|         |--SumNaturalNumbers.py
+|         |--PrimeNumber.py
+|         |--P1_sum.c
+|         |--P1_sum.exe
+|         |--P2_even_odd.c
+|         |--P2_even_odd.exe
+|         |--P3_primeNum.c
+|         |--P3_primeNum.exe
 |   |--Google_Colab_links.txt
 |
 |-- Session-5/
